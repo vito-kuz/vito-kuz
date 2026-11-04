@@ -4,7 +4,7 @@ I'm a civil engineering student in Vancouver, WA. Before and alongside school I'
 
 **Studying:** B.S. Civil Engineering at Portland State University (expected Spring 2029), after engineering transfer coursework at Clark College.
 
-**Interested in:** infrastructure, urban design and city mapping, and construction. [ADD: structures, transportation, water, if you want them listed. The resume doesn't say these are interests.] Outside school: hiking and restoring vehicles.
+**Interested in:** infrastructure, urban design and city mapping, structures, transportation, water and construction.  Outside school: hiking and restoring vehicles.
 
 **Portfolio:** [vito-kuz.github.io](https://vito-kuz.github.io)
 
